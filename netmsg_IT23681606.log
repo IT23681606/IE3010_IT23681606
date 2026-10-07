@@ -1,0 +1,25 @@
+[2026-10-07 15:21:42] Server started
+[2026-10-07 15:26:35] User connected: dinithi
+[2026-10-07 15:27:44] Broadcast from dinithi: hello from client 1
+[2026-10-07 15:30:15] User connected: client2
+[2026-10-07 15:33:44] Broadcast from client2: hello everyone from client 2
+[2026-10-07 15:55:14] Broadcast from dinithi: hello everyone from client 1
+[2026-10-07 17:28:56] Server started
+[2026-10-07 17:33:10] User connected: dinithi
+[2026-10-07 17:34:28] User connected: testuser
+[2026-10-07 18:00:29] User disconnected: testuser
+[2026-10-07 18:24:19] User connected: testuser2
+[2026-10-07 18:30:58] User connected: receiver
+[2026-10-07 18:46:51] User disconnected: testuser2
+[2026-10-07 18:56:31] User connected: testuser3
+[2026-10-07 19:05:27] Broadcast from testuser3: Hello everyone from testuser3
+[2026-10-07 19:11:12] User disconnected: testuser3
+[2026-10-07 19:11:39] User connected: testuser4
+[2026-10-07 19:14:23] User disconnected: testuser4
+[2026-10-07 19:18:33] User connected: testuser4
+[2026-10-07 19:27:20] User disconnected: testuser4
+[2026-10-07 19:38:23] User disconnected: receiver
+[2026-10-07 19:38:23] User disconnected: dinithi
+[2026-10-07 19:38:45] Server started
+[2026-10-07 19:39:19] User connected: testuser5
+[2026-10-07 19:48:28] User disconnected: testuser5
