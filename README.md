@@ -74,3 +74,13 @@ Programming Language: C
 Network Protocol: TCP/IP
 Compiler: GCC
 Version Control: Git
+
+## Testing
+
+The NetMessenger application was tested using the TCP server and client.
+
+- Verified client connection to the server on TCP port 7606.
+- Tested user registration and the LIST command.
+- Checked the presence notifications when multiple clients joined.
+- Verified the personalized storage directory for received files.
+- Reviewed server and client responses during testing.
